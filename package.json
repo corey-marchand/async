@@ -1,0 +1,28 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "lint": "eslint 'files/**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corey-marchand/async.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corey-marchand/async/issues"
+  },
+  "homepage": "https://github.com/corey-marchand/async#readme",
+  "dependencies": {
+    "eslint": "^6.5.1",
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.3"
+  }
+}
